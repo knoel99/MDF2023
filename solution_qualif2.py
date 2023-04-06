@@ -15,4 +15,3 @@ while nbJours < curJour:
     nbJours += J[saison]
     saison += 1
 print(saison)
-Footer
